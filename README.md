@@ -22,10 +22,10 @@ Welcome to MyAnimeList! This is my fourth Android application project, developed
 - **Favorite Anime**: Mark and manage your favorite anime.
 
 ## Screenshots
-<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/42dbe27a-4c42-418c-8001-99a141a4b1e3" alt="home" />
-<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/6db32fda-d577-4927-8e10-7098622104fc" alt="detail" />
-<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/14a051a2-dd23-4858-852f-82b56e981c87" alt="share" />
-<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/46c25253-7b28-4c14-9140-27f2d1cd0c16" alt="about" />
+<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/14b35e51-0091-420e-86b2-b18346698358" alt="home" />
+<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/81a4986d-4340-4c88-afaf-6ad25f27795e" alt="detail" />
+<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/2a185c95-e808-4fa7-9c3d-3c8905ddad4c" alt="favorite" />
+<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/1a8c16d7-aa32-4567-9c3c-130e148dcaef" alt="about" />
 
 ## Installation
 

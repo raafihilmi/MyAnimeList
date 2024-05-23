@@ -22,8 +22,10 @@ Welcome to MyAnimeList! This is my fourth Android application project, developed
 - **Favorite Anime**: Mark and manage your favorite anime.
 
 ## Screenshots
-
-<img align="left" alt="JavaScript" title="JavaScript" height src="https://drive.google.com/file/d/1kpxDyOssaJLT1Hjhf9Ra3tWsFIWlXL-5/view?usp=drive_link" />
+<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/42dbe27a-4c42-418c-8001-99a141a4b1e3" alt="home" />
+<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/6db32fda-d577-4927-8e10-7098622104fc" alt="detail" />
+<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/14a051a2-dd23-4858-852f-82b56e981c87" alt="share" />
+<img height="400px" src="https://github.com/raafihilmi/MyAnimeList/assets/69000583/46c25253-7b28-4c14-9140-27f2d1cd0c16" alt="about" />
 
 ## Installation
 

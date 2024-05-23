@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyAnimeList</string>
+    <string name="home_page">home</string>
+    <string name="favorite_page">favorite</string>
+    <string name="about_page">about</string>
+    <string name="no_internet">Tidak ada koneksi Internet!</string>
+    <string name="favorite_anime">Favorite Anime</string>
+    <string name="no_favorite">Tidak ada favorite anime</string>
+    <string name="back_to_home">Kembali ke halaman utama</string>
+    <string name="about_img">https://dicoding-web-img.sgp1.digitaloceanspaces.com/small/avatar/dos:83bff57ba2957d428a960fd6e723947320230831081549.png</string>
+    <string name="foto_profile">Foto profile</string>
+    <string name="item_anime">Neon Genesis Evangelion</string>
+    <string name="about_me">About Me</string>
+    <string name="my_name">Raafi Hilmi</string>
+    <string name="my_email">raafihilmi90@gmail.com</string>
+    <string name="my_city">Kota Tangerang Selatan</string>
+</resources>

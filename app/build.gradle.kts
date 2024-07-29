@@ -1,9 +1,11 @@
+import org.jetbrains.dokka.gradle.DokkaTask
+
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
     id("com.google.devtools.ksp")
+    id("org.jetbrains.dokka")
 }
-
 android {
     namespace = "com.bumantra.myanimelist"
     compileSdk = 34
@@ -48,8 +50,12 @@ android {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
     }
+
 }
 
+tasks.withType<DokkaTask>().configureEach {
+    outputDirectory.set(file("$buildDir/dokka"))
+}
 dependencies {
 
     implementation("androidx.core:core-ktx:1.9.0")
@@ -101,4 +107,6 @@ dependencies {
     androidTestImplementation("com.squareup.okhttp3:okhttp-tls:4.9.3")
     implementation("androidx.test.espresso:espresso-idling-resource:3.4.0")
 
+    dokkaPlugin("org.jetbrains.dokka:android-documentation-plugin:1.9.20")
+    dokkaPlugin("org.jetbrains.dokka:dokka-base:1.9.20")
 }
